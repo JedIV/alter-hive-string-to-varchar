@@ -1,0 +1,13 @@
+{
+    "id": "alter-hive-string-to-varchar",
+    "version": "0.0.2",
+    "meta": {
+        "label": "Hive string types fixup",
+        "description": "Alter hive tables to change string to varchar",
+        "author": "Dataiku (Kiel Guédec)",
+        "icon": "icon-wrench",
+        "licenseInfo": "Apache Software License",
+        "url": "https://www.dataiku.com/dss/plugins/info/alter-hive-string-to-varchar.html",
+        "tags": ["Admin"]
+    }
+}
